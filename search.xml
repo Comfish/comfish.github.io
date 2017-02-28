@@ -4,6 +4,73 @@
   
     
     <entry>
+      <title><![CDATA[如何提升留存]]></title>
+      <url>http://yoursite.com/2017/02/28/%E5%A6%82%E4%BD%95%E6%8F%90%E5%8D%87%E7%95%99%E5%AD%98/</url>
+      <content type="html"><![CDATA[<p>分享一个最蠢，也是最简单的提升留存方法。</p>
+<h4 id="本质"><a href="#本质" class="headerlink" title="本质"></a>本质</h4><p>为了让大家都能理解，拿微信当例子「如何提高微信的留存用户」</p>
+<p><strong>模拟一组数据</strong></p>
+<table>
+<thead>
+<tr>
+<th>用户类型</th>
+<th>活跃占比</th>
+<th>次留</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>当天发了朋友圈，且包含图片</td>
+<td>10%</td>
+<td>80%</td>
+</tr>
+<tr>
+<td>当天发了朋友圈，但没有图片</td>
+<td>10%</td>
+<td>50%</td>
+</tr>
+</tbody>
+</table>
+<p>根据数据推断，引导用户发布图片朋友圈，可提高留存。</p>
+<p>所以方法的本质就是「<strong>将留存低的用户群体引导转变成留存高的用户群体</strong>」</p>
+<h4 id="关键"><a href="#关键" class="headerlink" title="关键"></a>关键</h4><p>一年前，水哥说了一句「做产品最重要的就是用户分层」，而这种方法的关键是做好用户分层、活跃占比预估和次留差值预估。</p>
+<p><strong>再模拟一组数据</strong></p>
+<table>
+<thead>
+<tr>
+<th>用户类型</th>
+<th>活跃占比</th>
+<th>次留</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A：进入了朋友圈，未发内容</td>
+<td>60%</td>
+<td>30%</td>
+</tr>
+<tr>
+<td>B：进入了朋友圈，发了内容</td>
+<td>20%</td>
+<td>80%</td>
+</tr>
+</tbody>
+</table>
+<p>此对比满足了3个关键点</p>
+<p>1、<strong>转换难度低</strong>：A用户主要是进入朋友圈看内容，引导他们发内容是相对简单的</p>
+<p>2、<strong>活跃占比大</strong>：有60%的活跃用户可以作为引导基础</p>
+<p>3、<strong>次留差距大</strong>：他们的次留差距在50%</p>
+<p>以上3个关键点缺一不可，换句话说</p>
+<ul>
+<li>如果A是「今天新增了好友」，E2是「发布了朋友圈」。他们有可比性？</li>
+<li>如果A的活跃是0.1%。还值引导？</li>
+<li>如果A的次留是79.9%；B的次留是80%，还有必要转换？</li>
+</ul>
+<h4 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h4><p>最近次留提升了不止2%，于是有了这段总结，希望对大家有帮助。当然，你的引导方案也是关键。</p>
+<p>最后，谁能推荐下有什么统计工具可提供此类服务？</p>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[产品经理的进阶方法]]></title>
       <url>http://yoursite.com/2016/11/29/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E7%9A%84%E8%BF%9B%E9%98%B6%E6%96%B9%E6%B3%95/</url>
       <content type="html"><![CDATA[<p>毕业也有两年多了，产品策划已经不是我这个阶段所需要纠结的问题。产品策划就像小时候数学考试解应用题。给出背景，在各种限制条件下，利用各种公式进行求解。</p>
