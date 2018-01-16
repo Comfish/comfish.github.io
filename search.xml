@@ -4,6 +4,53 @@
   
     
     <entry>
+      <title><![CDATA[Come back]]></title>
+      <url>http://yoursite.com/2018/01/15/Come-back/</url>
+      <content type="html"><![CDATA[<p>我回来了，广州，肉体确实回来了。</p>
+<p>在珠海的十六个月，确切地说，在技能和认识上有了一个新的提升，简单来说，知道自己缺少了什么，很重要。但这远远不够。我希望，在日常工作中，我能站在上司的角度去思考问题。如果我是他，我会怎么做。</p>
+<p>2017年，我对工作的要求是</p>
+<ul>
+<li>减少凭感觉做事的次数</li>
+<li>功能上线后的及时回顾</li>
+</ul>
+<p>十分幸运，这些都踏踏实实做到了，对于2018年，在工作上设定了两个新目标。</p>
+<ul>
+<li>保持清晰的工作计划</li>
+<li>勇于表现自己</li>
+</ul>
+<p>另外，其实我很喜欢骚，这家伙从2016年8月辞职到现在，一直在创业，确实不容易。</p>
+<p>希望他对生活和工作，永远保持热情。</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[机器学习入门]]></title>
+      <url>http://yoursite.com/2017/08/28/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8/</url>
+      <content type="html"><![CDATA[<ul>
+<li>神经网络，是一种编程范式，让计算机能够从指定样本中学习</li>
+<li>深度学习，是一套在让神经网络能自我学习的技术集合</li>
+<li>大多用来解决图片语音识别，自然语言处理这一类问题</li>
+</ul>
+<hr>
+<p>感谢张总，文末的两篇文章，让我对机器学习有了个基础的认识。</p>
+<p>这真的是一个很有趣，效率很高的领域。</p>
+<p>当初做哔卟TV（LOL直播聚合），里面有个功能是「英雄」，用户可通过英雄来筛选直播间。我们当时实现的方法，是每天用人工的方式，通过关键词搜索，将观众数较多的直播间，收录到某个英雄之下，人力成本可想而知。</p>
+<p>现在看来，机器学习能轻松完成这件事情，而且比人类做得更好。</p>
+<p>黄图的识别、广告的识别、软文的识别、新闻的整合、股市的预测、择偶匹配的推荐、各类风险的预测、体育训练矫正等等。</p>
+<p>一个维度是让原本由人来完成的事情，通过机器完成。</p>
+<p>一个维度是让预测的准确性更高。</p>
+<p>机器学习概念：<a href="http://www.mogeha.com/DL_notes.pdf" target="_blank" rel="external">http://www.mogeha.com/DL_notes.pdf</a></p>
+<p>机器学习应用：<a href="https://zhuanlan.zhihu.com/p/28731349" target="_blank" rel="external">https://zhuanlan.zhihu.com/p/28731349</a></p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[一种简单可行的AB测试]]></title>
+      <url>http://yoursite.com/2017/04/26/%E4%B8%80%E7%A7%8D%E7%AE%80%E5%8D%95%E5%8F%AF%E8%A1%8C%E7%9A%84AB%E6%B5%8B%E8%AF%95/</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[如何提升留存]]></title>
       <url>http://yoursite.com/2017/02/28/%E5%A6%82%E4%BD%95%E6%8F%90%E5%8D%87%E7%95%99%E5%AD%98/</url>
       <content type="html"><![CDATA[<p>分享一个最蠢，也是最简单的提升留存方法。</p>
